@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animationCounter/static/css/main.03922f71.css",
+    "main.js": "/animationCounter/static/js/main.b5193ca8.js",
+    "index.html": "/animationCounter/index.html",
+    "main.03922f71.css.map": "/animationCounter/static/css/main.03922f71.css.map",
+    "main.b5193ca8.js.map": "/animationCounter/static/js/main.b5193ca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03922f71.css",
+    "static/js/main.b5193ca8.js"
+  ]
+}
